@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.3.2](https://github.com/open-feature/java-sdk/compare/v1.3.1...v1.3.2) (2023-03-30)
+
+
+### 🧹 Chore
+
+* **deps:** update dependency dev.openfeature.contrib.providers:flagd to v0.5.8 ([#360](https://github.com/open-feature/java-sdk/issues/360)) ([de9a928](https://github.com/open-feature/java-sdk/commit/de9a928f93679295ad9244b7dc6def1af1d9f7fc))
+* **deps:** update github/codeql-action digest to dc81ae3 ([#367](https://github.com/open-feature/java-sdk/issues/367)) ([bac2af3](https://github.com/open-feature/java-sdk/commit/bac2af3033245db5bb5da18790f86e657a773686))
+* **deps:** update github/codeql-action digest to fff3a80 ([#365](https://github.com/open-feature/java-sdk/issues/365)) ([3ae2a54](https://github.com/open-feature/java-sdk/commit/3ae2a541a1c8a9fc568a97aa02301df1353e092b))
+* **deps:** update google-github-actions/release-please-action digest to ee9822e ([#366](https://github.com/open-feature/java-sdk/issues/366)) ([6d7c43d](https://github.com/open-feature/java-sdk/commit/6d7c43d120d025d180a446ba7769109b94e1be3c))
+
 ## [1.3.1](https://github.com/open-feature/java-sdk/compare/v1.3.0...v1.3.1) (2023-03-28)
 
 
